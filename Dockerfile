@@ -1,4 +1,4 @@
-FROM cimg/ruby:3.0.2
+FROM cimg/ruby:3.0.3
 
 COPY --chown=circleci:circleci Gemfile* ./
 
