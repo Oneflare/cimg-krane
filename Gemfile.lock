@@ -63,7 +63,7 @@ GEM
     jsonpath (1.1.0)
       multi_json
     jwt (2.3.0)
-    krane (2.4.4)
+    krane (2.4.6)
       activesupport (>= 5.0)
       colorize (~> 0.8)
       concurrent-ruby (~> 1.1)
